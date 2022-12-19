@@ -2,8 +2,6 @@
 - 🔭 Hoje trabalho com suporte ao cliente e Social Media 
 - 📖 Estudando Java
 - 📚 3º Semestre Analise e Desenvolvimento de Sistemas 
-- 😄 Pronouns: Ele/Dele
-
 
 <div align="center">
  <a href="https://github.com/Gabriel-Aston">
