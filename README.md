@@ -5,6 +5,6 @@
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
-  <a href="https://github.com/Aston8522">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aston8522&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aston8522&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/Gabriel-Aston">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Aston&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Aston&layout=compact&langs_count=7&theme=cobalt"/>
